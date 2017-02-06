@@ -1,0 +1,20 @@
+{
+    "name": "marketflow/yii2-regex-validator",
+    "description": "Yii2 validator for validating PCRE Regular Expressions",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sam Mousa",
+            "email": "sam@mousa.nl"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+  "autoload": {
+    "psr-4": {
+      "SamIT\\Yii2\\Validators\\": ["src/"]
+    }
+  }
+}
