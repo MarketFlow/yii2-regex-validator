@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "fa38d906e609d2860cea3f3641f1168c",
+    "content-hash": "5db37702d7428fbd4ddd8e954ca96f17",
     "packages": [
         {
             "name": "bower-asset/jquery",
@@ -255,51 +255,6 @@
                 "html"
             ],
             "time": "2016-07-16T12:58:58+00:00"
-        },
-        {
-            "name": "regex-guard/regex-guard",
-            "version": "1.1.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/marcioAlmada/regex-guard.git",
-                "reference": "dc9a8199f4ebef4c21603ad1f6a8cb53542e7d29"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/marcioAlmada/regex-guard/zipball/dc9a8199f4ebef4c21603ad1f6a8cb53542e7d29",
-                "reference": "dc9a8199f4ebef4c21603ad1f6a8cb53542e7d29",
-                "shasum": ""
-            },
-            "require-dev": {
-                "mockery/mockery": "dev-master"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "RegexGuard\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Márcio Almada",
-                    "email": "marcio3w@gmail.com",
-                    "homepage": "https://github.com/marcioAlmada/"
-                }
-            ],
-            "description": "A wrapper that allows you to validate regular expressions and handle normally uncatchable PCRE compilation warnings",
-            "keywords": [
-                "PCRE",
-                "preg",
-                "regex",
-                "regexp",
-                "support",
-                "utils"
-            ],
-            "time": "2014-09-17T18:04:00+00:00"
         },
         {
             "name": "yiisoft/yii2",
