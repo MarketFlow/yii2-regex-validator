@@ -1,7 +1,7 @@
 <?php
 
 
-namespace SamIT\Yii2\Validators;
+namespace MarketFlow\Yii2\Validators;
 
 
 use \yii\validators\Validator;

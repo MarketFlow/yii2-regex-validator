@@ -14,7 +14,7 @@
     },
   "autoload": {
     "psr-4": {
-      "SamIT\\Yii2\\Validators\\": ["src/"]
+      "MarketFlow\\Yii2\\Validators\\": ["src/"]
     }
   }
 }

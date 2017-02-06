@@ -1,6 +1,6 @@
 <?php
 
-use \SamIT\Yii2\Validators\RegexValidator;
+use \MarketFlow\Yii2\Validators\RegexValidator;
 use \PHPUnit\Framework\TestCase;
 
 class RegexValidatorTest extends TestCase
